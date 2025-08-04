@@ -1,6 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hCsO6hlK6Ci/giphy.gif" width="100"/>
-</div>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azizpambayun/azizpambayun/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azizpambayun/azizpambayun/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/azizpambayun/azizpambayun/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <div id="badges" align="center">
   <a href="[Your LinkedIn Profile URL]">
