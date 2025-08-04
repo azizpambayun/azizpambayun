@@ -1,13 +1,3 @@
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azizpambayun/azizpambayun/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azizpambayun/azizpambayun/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/azizpambayun/azizpambayun/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div id="badges" align="center">
   <a href="[Your LinkedIn Profile URL]">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
