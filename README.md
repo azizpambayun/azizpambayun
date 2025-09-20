@@ -62,12 +62,10 @@ I am a **Backend Developer** who transitioned from the world of Economics to the
 
 _Here are some of the projects I've worked on. You can replace these with your actual projects._
 
-| Project Name  | Description                          | Technologies                  | Link             |
-| :------------ | :----------------------------------- | :---------------------------- | :--------------- |
-| **Project 1** | A brief description of your project. | Java, Spring Boot, MySQL      | [Link to Repo]() |
-| **Project 2** | A brief description of your project. | Java, Spring Boot, PostgreSQL | [Link to Repo]() |
-| **Project 3** | A brief description of your project. | Java, Spring Boot, Docker     | [Link to Repo]() |
-
+| Project Name                  | Description                                                          | Technologies                                                                                       | Link                                                      |
+| :---------------------------- | :------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- | :-------------------------------------------------------- |
+| **Patient Management System** | A microservices-based patient management system.                     | Java 21, Spring Boot, PostgreSQL, Kafka, gRPC, Docker, Spring Gateway, Spring Security, JUnit, AWS | [https://github.com/azizpambayun/patient-management]()    |
+| **Restaurant Review Apps**    | A full-stack web application for browsing and reviewing restaurants. | Java 24, Spring Boot, Elasticsearch, Docker, OAuth2, Keycloak, Next.js, TailwindCSS                | [https://github.com/azizpambayun/restaurant-review-app]() |
 ---
 
 ### 🏆 My GitHub Journey
