@@ -19,7 +19,7 @@
 I am a **Backend Developer** who transitioned from the world of Economics to the dynamic field of technology. My analytical background gives me a unique perspective on problem-solving, and I'm driven by a passion for building efficient, scalable, and robust backend systems. I have experience building projects with Java Spring Boot, NestJS (using TypeScript) and Express.js (using JavaScript). I thrive in collaborative environments and am always excited to learn and apply new technologies to create impactful solutions.
 
 - 🔭 I’m currently working on enhancing my microservices architecture skills.
-- 🌱 I’m currently learning **Spring Boot** and **Docker**.
+- 🌱 I’m currently learning **Spring Boot**, **Quarkus**, and **Golang Gin**.
 - 💬 Ask me about **Java, Spring Boot, System Design, Architecture or my journey into tech**.
 - 📫 How to reach me: **k.aziz.pambayun@gmail.com**
 
