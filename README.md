@@ -76,20 +76,8 @@ _Here are some of the projects I've worked on._
 
 ### 🏆 My GitHub Journey
 
-<div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=azizpambayun&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="azizpambayun" />
-  </a>
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=azizpambayun&show_icons=true&count_private=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizpambayun&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-  
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azizpambayun&theme=radical&hide_border=true" alt="streak graph" />
-
-</div>
+![](https://raw.githubusercontent.com/azizpambayun/azizpambayun/master/profile-summary-card-output/default/0-profile-details.svg)
+![](https://raw.githubusercontent.com/azizpambayun/azizpambayun/master/profile-summary-card-output/default/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/azizpambayun/azizpambayun/master/profile-summary-card-output/default/2-most-commit-language.svg)
 
 ---
