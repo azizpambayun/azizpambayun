@@ -76,8 +76,6 @@ _Here are some of the projects I've worked on._
 
 ### 🏆 My GitHub Journey
 
-![](https://raw.githubusercontent.com/azizpambayun/azizpambayun/master/profile-summary-card-output/default/0-profile-details.svg)
-![](https://raw.githubusercontent.com/azizpambayun/azizpambayun/master/profile-summary-card-output/default/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/azizpambayun/azizpambayun/master/profile-summary-card-output/default/2-most-commit-language.svg)
+![Metrics](https://github.com/azizpambayun/azizpambayun/blob/master/github-metrics.svg)
 
 ---
