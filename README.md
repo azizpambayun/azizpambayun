@@ -25,7 +25,7 @@ I am a **Backend Developer** who transitioned from the world of Economics to the
 
 ---
 
-### 🛠️ My Tech Stack:
+### 🛠️ My Tech Stacks:
 
 #### Core Backend:
 <p align="left">
