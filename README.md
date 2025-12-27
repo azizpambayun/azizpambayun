@@ -76,6 +76,8 @@ _Here are some of the projects I've worked on._
 
 ### 🏆 My GitHub Journey
 
-![Metrics](https://github.com/azizpambayun/azizpambayun/blob/master/github-metrics.svg)
+<div align="center">
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
 ---
